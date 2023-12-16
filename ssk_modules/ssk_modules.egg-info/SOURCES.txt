@@ -1,0 +1,6 @@
+setup.py
+string_kernel.c
+ssk_modules.egg-info/PKG-INFO
+ssk_modules.egg-info/SOURCES.txt
+ssk_modules.egg-info/dependency_links.txt
+ssk_modules.egg-info/top_level.txt
