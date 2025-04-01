@@ -1,2 +1,2 @@
-#__pycache__/
-#*.py[codb]
+__pycache__/
+*.py[codb]
